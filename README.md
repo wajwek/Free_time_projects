@@ -1,2 +1,2 @@
 # Free_time_projects
-A catalog containing my projects completed in my free time ;)
+A repository containing my projects completed in my free time ;)
